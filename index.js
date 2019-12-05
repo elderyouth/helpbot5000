@@ -100,7 +100,8 @@ function listStudentLeaders(){
     {name : '@Ayush Modi', schedule:'monday'},
     {name : '@Feri', schedule:'monday'},
     {name : '@KhineZar', schedule:'monday'},
-    {name : '@Mariem Ben Charrada', schedule:'monday'}
+    {name : '@Mariem Ben Charrada', schedule:'monday'},
+    {name : '@Kyung Mo Yang', schedule:'monday'}
 ];
 
   //Warmup Greeting
